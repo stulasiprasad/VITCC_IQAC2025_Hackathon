@@ -60,3 +60,6 @@ This hackathon aims to foster **innovation in education and administration** by 
 - Collaboration with **university administration** for implementation.
 
 📢 **Join us and be a part of digital transformation in higher education!** 🚀
+
+![image](https://github.com/user-attachments/assets/cb94824d-387d-46b3-96b0-faa70fe3c1ca)
+
